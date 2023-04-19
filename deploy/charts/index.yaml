@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  origin-ca-issuer:
+  - apiVersion: v1
+    appVersion: 0.6.1
+    created: "2023-04-19T11:47:07.15929267Z"
+    description: A Helm chart for origin-ca-issuer
+    digest: cd8e927845a0c37f142b3fc4854da83be84c3f04b91c1e4f338b977801691092
+    home: https://github.com/cloudflare/origin-ca-issuer
+    keywords:
+    - cert-manager
+    - cloudflare
+    - tls
+    name: origin-ca-issuer
+    sources:
+    - https://github.com/cloudflare/origin-ca-issuer
+    urls:
+    - origin-ca-issuer-0.5.0.tgz
+    version: 0.5.0
+generated: "2023-04-19T11:47:07.158621772Z"
